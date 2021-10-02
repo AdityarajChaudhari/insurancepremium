@@ -1,0 +1,624 @@
+2021-09-19	17:15:57		Renaming column names.
+2021-09-19	17:15:57		Dropping some of the categorical features
+2021-09-19	17:15:57		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:15:57		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:15:57		Features with Categorical values dropped!
+2021-09-19	17:15:57		Columns Renamed!
+2021-09-19	17:15:57		Renaming column names.
+2021-09-19	17:15:57		Dropping some of the categorical features
+2021-09-19	17:15:57		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:15:57		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:15:57		Features with Categorical values dropped!
+2021-09-19	17:15:57		Columns Renamed!
+2021-09-19	17:15:57		Renaming column names.
+2021-09-19	17:15:57		Dropping some of the categorical features
+2021-09-19	17:15:57		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:15:57		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:15:57		Features with Categorical values dropped!
+2021-09-19	17:15:57		Columns Renamed!
+2021-09-19	17:15:57		Renaming column names.
+2021-09-19	17:15:57		Dropping some of the categorical features
+2021-09-19	17:15:57		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:15:57		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:15:57		Features with Categorical values dropped!
+2021-09-19	17:15:57		Columns Renamed!
+2021-09-19	17:16:14		Renaming column names.
+2021-09-19	17:16:14		Dropping some of the categorical features
+2021-09-19	17:16:14		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:16:14		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:16:14		Features with Categorical values dropped!
+2021-09-19	17:16:14		Columns Renamed!
+2021-09-19	17:16:14		Renaming column names.
+2021-09-19	17:16:14		Dropping some of the categorical features
+2021-09-19	17:16:14		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:16:14		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:16:14		Features with Categorical values dropped!
+2021-09-19	17:16:14		Columns Renamed!
+2021-09-19	17:16:52		Renaming column names.
+2021-09-19	17:16:52		Dropping some of the categorical features
+2021-09-19	17:16:52		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:16:52		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:16:52		Features with Categorical values dropped!
+2021-09-19	17:16:52		Columns Renamed!
+2021-09-19	17:16:52		Renaming column names.
+2021-09-19	17:16:53		Dropping some of the categorical features
+2021-09-19	17:16:53		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:16:53		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:16:53		Features with Categorical values dropped!
+2021-09-19	17:16:53		Columns Renamed!
+2021-09-19	17:17:06		Renaming column names.
+2021-09-19	17:17:06		Dropping some of the categorical features
+2021-09-19	17:17:06		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:06		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:06		Features with Categorical values dropped!
+2021-09-19	17:17:06		Columns Renamed!
+2021-09-19	17:17:06		Renaming column names.
+2021-09-19	17:17:06		Dropping some of the categorical features
+2021-09-19	17:17:06		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:06		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:06		Features with Categorical values dropped!
+2021-09-19	17:17:06		Columns Renamed!
+2021-09-19	17:17:33		Renaming column names.
+2021-09-19	17:17:33		Dropping some of the categorical features
+2021-09-19	17:17:33		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:33		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:33		Features with Categorical values dropped!
+2021-09-19	17:17:33		Columns Renamed!
+2021-09-19	17:17:33		Renaming column names.
+2021-09-19	17:17:33		Dropping some of the categorical features
+2021-09-19	17:17:33		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:33		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:33		Features with Categorical values dropped!
+2021-09-19	17:17:33		Columns Renamed!
+2021-09-19	17:17:44		Renaming column names.
+2021-09-19	17:17:44		Dropping some of the categorical features
+2021-09-19	17:17:44		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:44		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:44		Features with Categorical values dropped!
+2021-09-19	17:17:44		Columns Renamed!
+2021-09-19	17:17:44		Renaming column names.
+2021-09-19	17:17:44		Dropping some of the categorical features
+2021-09-19	17:17:44		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:44		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:44		Features with Categorical values dropped!
+2021-09-19	17:17:44		Columns Renamed!
+2021-09-19	17:17:44		Renaming column names.
+2021-09-19	17:17:44		Dropping some of the categorical features
+2021-09-19	17:17:44		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:44		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:44		Features with Categorical values dropped!
+2021-09-19	17:17:44		Columns Renamed!
+2021-09-19	17:17:44		Renaming column names.
+2021-09-19	17:17:44		Dropping some of the categorical features
+2021-09-19	17:17:44		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:44		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:17:44		Features with Categorical values dropped!
+2021-09-19	17:17:44		Columns Renamed!
+2021-09-19	17:19:01		Renaming column names.
+2021-09-19	17:19:01		Dropping some of the categorical features
+2021-09-19	17:19:01		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:19:01		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:19:01		Features with Categorical values dropped!
+2021-09-19	17:19:01		Columns Renamed!
+2021-09-19	17:19:01		Renaming column names.
+2021-09-19	17:19:01		Dropping some of the categorical features
+2021-09-19	17:19:01		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:19:01		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:19:01		Features with Categorical values dropped!
+2021-09-19	17:19:01		Columns Renamed!
+2021-09-19	17:19:01		Renaming column names.
+2021-09-19	17:19:01		Dropping some of the categorical features
+2021-09-19	17:19:01		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:19:01		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:19:01		Features with Categorical values dropped!
+2021-09-19	17:19:01		Columns Renamed!
+2021-09-19	17:19:01		Renaming column names.
+2021-09-19	17:19:01		Dropping some of the categorical features
+2021-09-19	17:19:01		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:19:01		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:19:01		Features with Categorical values dropped!
+2021-09-19	17:19:01		Columns Renamed!
+2021-09-19	17:20:02		Renaming column names.
+2021-09-19	17:20:02		Dropping some of the categorical features
+2021-09-19	17:20:02		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:02		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:02		Features with Categorical values dropped!
+2021-09-19	17:20:02		Columns Renamed!
+2021-09-19	17:20:02		Renaming column names.
+2021-09-19	17:20:02		Dropping some of the categorical features
+2021-09-19	17:20:02		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:02		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:02		Features with Categorical values dropped!
+2021-09-19	17:20:02		Columns Renamed!
+2021-09-19	17:20:02		Renaming column names.
+2021-09-19	17:20:02		Dropping some of the categorical features
+2021-09-19	17:20:02		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:02		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:02		Features with Categorical values dropped!
+2021-09-19	17:20:02		Columns Renamed!
+2021-09-19	17:20:02		Renaming column names.
+2021-09-19	17:20:02		Dropping some of the categorical features
+2021-09-19	17:20:02		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:02		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:02		Features with Categorical values dropped!
+2021-09-19	17:20:02		Columns Renamed!
+2021-09-19	17:20:32		Renaming column names.
+2021-09-19	17:20:32		Dropping some of the categorical features
+2021-09-19	17:20:32		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:32		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:32		Features with Categorical values dropped!
+2021-09-19	17:20:32		Columns Renamed!
+2021-09-19	17:20:32		Renaming column names.
+2021-09-19	17:20:32		Dropping some of the categorical features
+2021-09-19	17:20:32		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:32		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:32		Features with Categorical values dropped!
+2021-09-19	17:20:32		Columns Renamed!
+2021-09-19	17:20:32		Renaming column names.
+2021-09-19	17:20:32		Dropping some of the categorical features
+2021-09-19	17:20:32		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:32		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:32		Features with Categorical values dropped!
+2021-09-19	17:20:32		Columns Renamed!
+2021-09-19	17:20:32		Renaming column names.
+2021-09-19	17:20:32		Dropping some of the categorical features
+2021-09-19	17:20:32		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:32		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:20:32		Features with Categorical values dropped!
+2021-09-19	17:20:32		Columns Renamed!
+2021-09-19	17:21:28		Renaming column names.
+2021-09-19	17:21:28		Dropping some of the categorical features
+2021-09-19	17:21:28		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:21:28		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:21:28		Features with Categorical values dropped!
+2021-09-19	17:21:28		Columns Renamed!
+2021-09-19	17:21:28		Renaming column names.
+2021-09-19	17:21:28		Dropping some of the categorical features
+2021-09-19	17:21:28		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:21:28		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:21:28		Features with Categorical values dropped!
+2021-09-19	17:21:28		Columns Renamed!
+2021-09-19	17:21:28		Renaming column names.
+2021-09-19	17:21:28		Dropping some of the categorical features
+2021-09-19	17:21:28		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:21:28		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:21:28		Features with Categorical values dropped!
+2021-09-19	17:21:28		Columns Renamed!
+2021-09-19	17:21:28		Renaming column names.
+2021-09-19	17:21:28		Dropping some of the categorical features
+2021-09-19	17:21:28		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:21:28		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:21:28		Features with Categorical values dropped!
+2021-09-19	17:21:28		Columns Renamed!
+2021-09-19	17:22:05		Renaming column names.
+2021-09-19	17:22:05		Dropping some of the categorical features
+2021-09-19	17:22:05		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:05		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:05		Features with Categorical values dropped!
+2021-09-19	17:22:05		Columns Renamed!
+2021-09-19	17:22:05		Renaming column names.
+2021-09-19	17:22:05		Dropping some of the categorical features
+2021-09-19	17:22:05		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:05		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:05		Features with Categorical values dropped!
+2021-09-19	17:22:05		Columns Renamed!
+2021-09-19	17:22:05		Renaming column names.
+2021-09-19	17:22:05		Dropping some of the categorical features
+2021-09-19	17:22:05		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:05		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:05		Features with Categorical values dropped!
+2021-09-19	17:22:05		Columns Renamed!
+2021-09-19	17:22:05		Renaming column names.
+2021-09-19	17:22:05		Dropping some of the categorical features
+2021-09-19	17:22:05		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:05		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:05		Features with Categorical values dropped!
+2021-09-19	17:22:05		Columns Renamed!
+2021-09-19	17:22:38		Renaming column names.
+2021-09-19	17:22:38		Dropping some of the categorical features
+2021-09-19	17:22:38		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:38		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:38		Features with Categorical values dropped!
+2021-09-19	17:22:38		Columns Renamed!
+2021-09-19	17:22:38		Renaming column names.
+2021-09-19	17:22:38		Dropping some of the categorical features
+2021-09-19	17:22:38		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:38		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:38		Features with Categorical values dropped!
+2021-09-19	17:22:38		Columns Renamed!
+2021-09-19	17:22:38		Renaming column names.
+2021-09-19	17:22:38		Dropping some of the categorical features
+2021-09-19	17:22:38		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:38		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:38		Features with Categorical values dropped!
+2021-09-19	17:22:38		Columns Renamed!
+2021-09-19	17:22:38		Renaming column names.
+2021-09-19	17:22:38		Dropping some of the categorical features
+2021-09-19	17:22:38		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:38		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:22:38		Features with Categorical values dropped!
+2021-09-19	17:22:38		Columns Renamed!
+2021-09-19	17:23:46		Renaming column names.
+2021-09-19	17:23:46		Dropping some of the categorical features
+2021-09-19	17:23:46		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:23:46		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:23:46		Features with Categorical values dropped!
+2021-09-19	17:23:46		Columns Renamed!
+2021-09-19	17:23:46		Renaming column names.
+2021-09-19	17:23:46		Dropping some of the categorical features
+2021-09-19	17:23:46		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:23:46		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:23:46		Features with Categorical values dropped!
+2021-09-19	17:23:46		Columns Renamed!
+2021-09-19	17:23:46		Renaming column names.
+2021-09-19	17:23:46		Dropping some of the categorical features
+2021-09-19	17:23:46		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:23:46		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:23:46		Features with Categorical values dropped!
+2021-09-19	17:23:46		Columns Renamed!
+2021-09-19	17:23:46		Renaming column names.
+2021-09-19	17:23:46		Dropping some of the categorical features
+2021-09-19	17:23:46		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:23:46		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:23:46		Features with Categorical values dropped!
+2021-09-19	17:23:46		Columns Renamed!
+2021-09-19	17:23:46		Renaming column names.
+2021-09-19	17:23:46		Dropping some of the categorical features
+2021-09-19	17:23:46		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:23:46		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:23:46		Features with Categorical values dropped!
+2021-09-19	17:23:46		Columns Renamed!
+2021-09-19	17:23:46		Renaming column names.
+2021-09-19	17:23:46		Dropping some of the categorical features
+2021-09-19	17:23:46		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:23:46		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:23:46		Features with Categorical values dropped!
+2021-09-19	17:23:46		Columns Renamed!
+2021-09-19	17:24:00		Renaming column names.
+2021-09-19	17:24:00		Dropping some of the categorical features
+2021-09-19	17:24:00		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:24:00		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:24:00		Features with Categorical values dropped!
+2021-09-19	17:24:00		Columns Renamed!
+2021-09-19	17:24:00		Renaming column names.
+2021-09-19	17:24:00		Dropping some of the categorical features
+2021-09-19	17:24:00		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:24:01		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:24:01		Features with Categorical values dropped!
+2021-09-19	17:24:01		Columns Renamed!
+2021-09-19	17:24:01		Renaming column names.
+2021-09-19	17:24:01		Dropping some of the categorical features
+2021-09-19	17:24:01		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:24:01		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:24:01		Features with Categorical values dropped!
+2021-09-19	17:24:01		Columns Renamed!
+2021-09-19	17:24:01		Renaming column names.
+2021-09-19	17:24:01		Dropping some of the categorical features
+2021-09-19	17:24:01		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:24:01		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:24:01		Features with Categorical values dropped!
+2021-09-19	17:24:01		Columns Renamed!
+2021-09-19	17:24:01		Renaming column names.
+2021-09-19	17:24:01		Dropping some of the categorical features
+2021-09-19	17:24:01		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:24:01		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:24:01		Features with Categorical values dropped!
+2021-09-19	17:24:01		Columns Renamed!
+2021-09-19	17:24:01		Renaming column names.
+2021-09-19	17:24:01		Dropping some of the categorical features
+2021-09-19	17:24:01		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:24:01		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:24:01		Features with Categorical values dropped!
+2021-09-19	17:24:01		Columns Renamed!
+2021-09-19	17:29:52		Renaming column names.
+2021-09-19	17:29:52		Dropping some of the categorical features
+2021-09-19	17:29:52		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:29:52		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:29:52		Features with Categorical values dropped!
+2021-09-19	17:29:52		Columns Renamed!
+2021-09-19	17:29:52		Renaming column names.
+2021-09-19	17:29:52		Dropping some of the categorical features
+2021-09-19	17:29:52		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:29:52		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:29:52		Features with Categorical values dropped!
+2021-09-19	17:29:52		Columns Renamed!
+2021-09-19	17:29:52		Renaming column names.
+2021-09-19	17:29:52		Dropping some of the categorical features
+2021-09-19	17:29:52		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:29:52		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:29:52		Features with Categorical values dropped!
+2021-09-19	17:29:52		Columns Renamed!
+2021-09-19	17:29:52		Renaming column names.
+2021-09-19	17:29:52		Dropping some of the categorical features
+2021-09-19	17:29:52		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:29:52		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:29:52		Features with Categorical values dropped!
+2021-09-19	17:29:52		Columns Renamed!
+2021-09-19	17:30:09		Renaming column names.
+2021-09-19	17:30:09		Dropping some of the categorical features
+2021-09-19	17:30:09		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:30:09		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:30:09		Features with Categorical values dropped!
+2021-09-19	17:30:09		Columns Renamed!
+2021-09-19	17:30:09		Renaming column names.
+2021-09-19	17:30:09		Dropping some of the categorical features
+2021-09-19	17:30:09		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:30:09		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:30:09		Features with Categorical values dropped!
+2021-09-19	17:30:09		Columns Renamed!
+2021-09-19	17:30:09		Renaming column names.
+2021-09-19	17:30:09		Dropping some of the categorical features
+2021-09-19	17:30:09		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:30:09		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:30:09		Features with Categorical values dropped!
+2021-09-19	17:30:09		Columns Renamed!
+2021-09-19	17:30:09		Renaming column names.
+2021-09-19	17:30:09		Dropping some of the categorical features
+2021-09-19	17:30:09		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:30:09		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-19	17:30:09		Features with Categorical values dropped!
+2021-09-19	17:30:09		Columns Renamed!
+2021-09-20	14:43:52		Renaming column names.
+2021-09-20	14:43:52		Dropping some of the categorical features
+2021-09-20	14:43:52		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:43:52		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:43:52		Features with Categorical values dropped!
+2021-09-20	14:43:52		Columns Renamed!
+2021-09-20	14:43:52		Renaming column names.
+2021-09-20	14:43:52		Dropping some of the categorical features
+2021-09-20	14:43:52		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:43:52		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:43:52		Features with Categorical values dropped!
+2021-09-20	14:43:52		Columns Renamed!
+2021-09-20	14:43:52		Renaming column names.
+2021-09-20	14:43:52		Dropping some of the categorical features
+2021-09-20	14:43:52		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:43:52		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:43:53		Features with Categorical values dropped!
+2021-09-20	14:43:53		Columns Renamed!
+2021-09-20	14:43:53		Renaming column names.
+2021-09-20	14:43:53		Dropping some of the categorical features
+2021-09-20	14:43:53		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:43:53		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:43:53		Features with Categorical values dropped!
+2021-09-20	14:43:53		Columns Renamed!
+2021-09-20	14:44:11		Renaming column names.
+2021-09-20	14:44:11		Dropping some of the categorical features
+2021-09-20	14:44:11		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:44:11		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:44:11		Features with Categorical values dropped!
+2021-09-20	14:44:11		Columns Renamed!
+2021-09-20	14:44:11		Renaming column names.
+2021-09-20	14:44:11		Dropping some of the categorical features
+2021-09-20	14:44:11		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:44:11		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:44:11		Features with Categorical values dropped!
+2021-09-20	14:44:11		Columns Renamed!
+2021-09-20	14:44:11		Renaming column names.
+2021-09-20	14:44:11		Dropping some of the categorical features
+2021-09-20	14:44:11		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:44:11		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:44:11		Features with Categorical values dropped!
+2021-09-20	14:44:11		Columns Renamed!
+2021-09-20	14:44:11		Renaming column names.
+2021-09-20	14:44:11		Dropping some of the categorical features
+2021-09-20	14:44:11		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:44:11		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-20	14:44:11		Features with Categorical values dropped!
+2021-09-20	14:44:11		Columns Renamed!
+2021-09-25	15:21:06		Renaming column names.
+2021-09-25	15:21:06		Dropping some of the categorical features
+2021-09-25	15:21:06		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:06		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:06		Features with Categorical values dropped!
+2021-09-25	15:21:06		Columns Renamed!
+2021-09-25	15:21:06		Renaming column names.
+2021-09-25	15:21:06		Dropping some of the categorical features
+2021-09-25	15:21:06		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:06		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:06		Features with Categorical values dropped!
+2021-09-25	15:21:06		Columns Renamed!
+2021-09-25	15:21:06		Renaming column names.
+2021-09-25	15:21:06		Dropping some of the categorical features
+2021-09-25	15:21:06		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:06		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:06		Features with Categorical values dropped!
+2021-09-25	15:21:06		Columns Renamed!
+2021-09-25	15:21:06		Renaming column names.
+2021-09-25	15:21:06		Dropping some of the categorical features
+2021-09-25	15:21:06		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:06		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:06		Features with Categorical values dropped!
+2021-09-25	15:21:06		Columns Renamed!
+2021-09-25	15:21:15		Renaming column names.
+2021-09-25	15:21:15		Dropping some of the categorical features
+2021-09-25	15:21:15		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:15		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:15		Features with Categorical values dropped!
+2021-09-25	15:21:15		Columns Renamed!
+2021-09-25	15:21:15		Renaming column names.
+2021-09-25	15:21:15		Dropping some of the categorical features
+2021-09-25	15:21:15		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:15		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:15		Features with Categorical values dropped!
+2021-09-25	15:21:15		Columns Renamed!
+2021-09-25	15:21:25		Renaming column names.
+2021-09-25	15:21:25		Dropping some of the categorical features
+2021-09-25	15:21:25		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:25		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:25		Features with Categorical values dropped!
+2021-09-25	15:21:25		Columns Renamed!
+2021-09-25	15:21:25		Renaming column names.
+2021-09-25	15:21:25		Dropping some of the categorical features
+2021-09-25	15:21:25		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:25		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:25		Features with Categorical values dropped!
+2021-09-25	15:21:25		Columns Renamed!
+2021-09-25	15:21:25		Renaming column names.
+2021-09-25	15:21:25		Dropping some of the categorical features
+2021-09-25	15:21:25		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:25		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:25		Features with Categorical values dropped!
+2021-09-25	15:21:25		Columns Renamed!
+2021-09-25	15:21:25		Renaming column names.
+2021-09-25	15:21:25		Dropping some of the categorical features
+2021-09-25	15:21:25		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:25		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:25		Features with Categorical values dropped!
+2021-09-25	15:21:25		Columns Renamed!
+2021-09-25	15:21:30		Renaming column names.
+2021-09-25	15:21:30		Dropping some of the categorical features
+2021-09-25	15:21:30		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:30		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:30		Features with Categorical values dropped!
+2021-09-25	15:21:30		Columns Renamed!
+2021-09-25	15:21:30		Renaming column names.
+2021-09-25	15:21:30		Dropping some of the categorical features
+2021-09-25	15:21:30		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:30		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:30		Features with Categorical values dropped!
+2021-09-25	15:21:30		Columns Renamed!
+2021-09-25	15:21:30		Renaming column names.
+2021-09-25	15:21:30		Dropping some of the categorical features
+2021-09-25	15:21:30		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:30		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:30		Features with Categorical values dropped!
+2021-09-25	15:21:30		Columns Renamed!
+2021-09-25	15:21:30		Renaming column names.
+2021-09-25	15:21:30		Dropping some of the categorical features
+2021-09-25	15:21:30		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:30		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:30		Features with Categorical values dropped!
+2021-09-25	15:21:30		Columns Renamed!
+2021-09-25	15:21:37		Renaming column names.
+2021-09-25	15:21:37		Dropping some of the categorical features
+2021-09-25	15:21:37		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:37		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:37		Features with Categorical values dropped!
+2021-09-25	15:21:37		Columns Renamed!
+2021-09-25	15:21:37		Renaming column names.
+2021-09-25	15:21:37		Dropping some of the categorical features
+2021-09-25	15:21:37		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:37		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:37		Features with Categorical values dropped!
+2021-09-25	15:21:37		Columns Renamed!
+2021-09-25	15:21:44		Renaming column names.
+2021-09-25	15:21:44		Dropping some of the categorical features
+2021-09-25	15:21:44		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:44		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:44		Features with Categorical values dropped!
+2021-09-25	15:21:44		Columns Renamed!
+2021-09-25	15:21:44		Renaming column names.
+2021-09-25	15:21:44		Dropping some of the categorical features
+2021-09-25	15:21:44		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:44		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:21:44		Features with Categorical values dropped!
+2021-09-25	15:21:44		Columns Renamed!
+2021-09-25	15:25:09		Renaming column names.
+2021-09-25	15:25:09		Dropping some of the categorical features
+2021-09-25	15:25:09		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:25:09		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:25:09		Features with Categorical values dropped!
+2021-09-25	15:25:09		Columns Renamed!
+2021-09-25	15:25:09		Renaming column names.
+2021-09-25	15:25:09		Dropping some of the categorical features
+2021-09-25	15:25:09		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:25:09		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:25:09		Features with Categorical values dropped!
+2021-09-25	15:25:09		Columns Renamed!
+2021-09-25	15:26:33		Renaming column names.
+2021-09-25	15:26:33		Dropping some of the categorical features
+2021-09-25	15:26:33		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:26:33		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:26:33		Features with Categorical values dropped!
+2021-09-25	15:26:33		Columns Renamed!
+2021-09-25	15:26:33		Renaming column names.
+2021-09-25	15:26:33		Dropping some of the categorical features
+2021-09-25	15:26:33		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:26:34		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:26:34		Features with Categorical values dropped!
+2021-09-25	15:26:34		Columns Renamed!
+2021-09-25	15:27:48		Renaming column names.
+2021-09-25	15:27:48		Dropping some of the categorical features
+2021-09-25	15:27:48		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:27:48		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:27:48		Features with Categorical values dropped!
+2021-09-25	15:27:48		Columns Renamed!
+2021-09-25	15:27:48		Renaming column names.
+2021-09-25	15:27:48		Dropping some of the categorical features
+2021-09-25	15:27:48		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:27:48		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:27:48		Features with Categorical values dropped!
+2021-09-25	15:27:48		Columns Renamed!
+2021-09-25	15:29:14		Renaming column names.
+2021-09-25	15:29:14		Dropping some of the categorical features
+2021-09-25	15:29:14		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:29:14		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:29:14		Features with Categorical values dropped!
+2021-09-25	15:29:14		Columns Renamed!
+2021-09-25	15:29:14		Renaming column names.
+2021-09-25	15:29:14		Dropping some of the categorical features
+2021-09-25	15:29:14		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:29:14		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:29:14		Features with Categorical values dropped!
+2021-09-25	15:29:14		Columns Renamed!
+2021-09-25	15:29:31		Renaming column names.
+2021-09-25	15:29:31		Dropping some of the categorical features
+2021-09-25	15:29:31		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:29:31		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:29:31		Features with Categorical values dropped!
+2021-09-25	15:29:31		Columns Renamed!
+2021-09-25	15:29:31		Renaming column names.
+2021-09-25	15:29:31		Dropping some of the categorical features
+2021-09-25	15:29:31		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:29:31		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:29:31		Features with Categorical values dropped!
+2021-09-25	15:29:31		Columns Renamed!
+2021-09-25	15:33:19		Renaming column names.
+2021-09-25	15:33:19		Dropping some of the categorical features
+2021-09-25	15:33:19		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:33:19		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:33:19		Features with Categorical values dropped!
+2021-09-25	15:33:19		Columns Renamed!
+2021-09-25	15:33:19		Renaming column names.
+2021-09-25	15:33:19		Dropping some of the categorical features
+2021-09-25	15:33:19		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:33:19		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:33:19		Features with Categorical values dropped!
+2021-09-25	15:33:19		Columns Renamed!
+2021-09-25	15:35:29		Renaming column names.
+2021-09-25	15:35:29		Dropping some of the categorical features
+2021-09-25	15:35:29		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:35:29		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:35:29		Features with Categorical values dropped!
+2021-09-25	15:35:29		Columns Renamed!
+2021-09-25	15:35:29		Renaming column names.
+2021-09-25	15:35:29		Dropping some of the categorical features
+2021-09-25	15:35:29		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:35:29		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:35:29		Features with Categorical values dropped!
+2021-09-25	15:35:29		Columns Renamed!
+2021-09-25	15:35:42		Renaming column names.
+2021-09-25	15:35:42		Dropping some of the categorical features
+2021-09-25	15:35:42		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:35:42		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:35:42		Features with Categorical values dropped!
+2021-09-25	15:35:42		Columns Renamed!
+2021-09-25	15:35:42		Renaming column names.
+2021-09-25	15:35:42		Dropping some of the categorical features
+2021-09-25	15:35:42		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:35:42		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:35:42		Features with Categorical values dropped!
+2021-09-25	15:35:42		Columns Renamed!
+2021-09-25	15:42:18		Renaming column names.
+2021-09-25	15:42:18		Dropping some of the categorical features
+2021-09-25	15:42:18		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:42:18		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:42:18		Features with Categorical values dropped!
+2021-09-25	15:42:18		Columns Renamed!
+2021-09-25	15:42:18		Renaming column names.
+2021-09-25	15:42:18		Dropping some of the categorical features
+2021-09-25	15:42:18		Coverting Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:42:18		Coverted Categorical Values from Feature Column to Numerical values.
+2021-09-25	15:42:18		Features with Categorical values dropped!
+2021-09-25	15:42:18		Columns Renamed!

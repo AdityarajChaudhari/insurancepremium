@@ -1,0 +1,106 @@
+2021-09-20	14:43:52		Dataset to be splitted into Dependent and Independent Features
+2021-09-20	14:43:52		Dataset splitted into Dependent and Independent Features
+2021-09-20	14:43:52		Dependent features to be scaled down using RobustScaler
+2021-09-20	14:43:52		Dataset to be splitted into Dependent and Independent Features
+2021-09-20	14:43:53		Dataset splitted into Dependent and Independent Features
+2021-09-20	14:43:53		Dependent features scaled down using RobustScaler
+2021-09-20	14:44:11		Dataset to be splitted into Dependent and Independent Features
+2021-09-20	14:44:11		Dataset splitted into Dependent and Independent Features
+2021-09-20	14:44:11		Dependent features to be scaled down using RobustScaler
+2021-09-20	14:44:11		Dataset to be splitted into Dependent and Independent Features
+2021-09-20	14:44:11		Dataset splitted into Dependent and Independent Features
+2021-09-20	14:44:11		Dependent features scaled down using RobustScaler
+2021-09-25	15:21:06		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:21:06		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:21:06		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:21:06		Dependent features scaled down using RobustScaler
+2021-09-25	15:21:06		Dataset to be split into Training and Testing Dataset
+2021-09-25	15:21:06		Dataset splits into Training and Testing Dataset
+2021-09-25	15:21:06		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:21:06		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:21:06		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:21:06		Dependent features scaled down using RobustScaler
+2021-09-25	15:21:06		Dataset to be split into Training and Testing Dataset
+2021-09-25	15:21:06		Dataset splits into Training and Testing Dataset
+2021-09-25	15:21:15		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:21:15		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:21:15		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:21:15		Dependent features scaled down using RobustScaler
+2021-09-25	15:21:15		Dataset to be split into Training and Testing Dataset
+2021-09-25	15:21:15		Dataset splits into Training and Testing Dataset
+2021-09-25	15:21:25		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:21:25		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:21:25		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:21:25		Dependent features scaled down using RobustScaler
+2021-09-25	15:21:25		Dataset to be split into Training and Testing Dataset
+2021-09-25	15:21:25		Dataset splits into Training and Testing Dataset
+2021-09-25	15:21:25		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:21:25		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:21:25		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:21:25		Dependent features scaled down using RobustScaler
+2021-09-25	15:21:25		Dataset to be split into Training and Testing Dataset
+2021-09-25	15:21:25		Dataset splits into Training and Testing Dataset
+2021-09-25	15:21:30		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:21:30		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:21:30		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:21:30		Dependent features scaled down using RobustScaler
+2021-09-25	15:21:30		Dataset to be split into Training and Testing Dataset
+2021-09-25	15:21:30		Dataset splits into Training and Testing Dataset
+2021-09-25	15:21:30		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:21:30		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:21:30		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:21:30		Dependent features scaled down using RobustScaler
+2021-09-25	15:21:30		Dataset to be split into Training and Testing Dataset
+2021-09-25	15:21:30		Dataset splits into Training and Testing Dataset
+2021-09-25	15:21:37		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:21:37		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:21:37		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:21:37		Dependent features scaled down using RobustScaler
+2021-09-25	15:21:37		Dataset to be split into Training and Testing Dataset
+2021-09-25	15:21:37		Dataset splits into Training and Testing Dataset
+2021-09-25	15:21:44		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:21:44		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:21:44		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:21:44		Dependent features scaled down using RobustScaler
+2021-09-25	15:25:09		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:25:09		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:25:09		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:25:09		Dependent features scaled down using RobustScaler
+2021-09-25	15:25:09		The error occurred is :too many values to unpack (expected 2)
+2021-09-25	15:26:33		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:26:33		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:26:34		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:26:34		Dependent features scaled down using RobustScaler
+2021-09-25	15:26:34		The error occurred is :too many values to unpack (expected 2)
+2021-09-25	15:27:48		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:27:48		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:27:48		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:27:48		Dependent features scaled down using RobustScaler
+2021-09-25	15:27:48		The error occurred is :cannot unpack non-iterable RobustScaler object
+2021-09-25	15:29:14		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:29:14		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:29:14		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:29:14		Dependent features scaled down using RobustScaler
+2021-09-25	15:29:14		Dataset to be split into Training and Testing Dataset
+2021-09-25	15:29:14		The error occurred is :Singleton array array(RobustScaler(), dtype=object) cannot be considered a valid collection.
+2021-09-25	15:29:31		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:29:31		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:29:31		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:29:31		Dependent features scaled down using RobustScaler
+2021-09-25	15:29:31		The error occurred is :cannot unpack non-iterable RobustScaler object
+2021-09-25	15:33:19		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:33:19		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:33:19		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:33:19		Dependent features scaled down using RobustScaler
+2021-09-25	15:35:29		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:35:29		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:35:29		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:35:29		Dependent features scaled down using RobustScaler
+2021-09-25	15:35:42		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:35:42		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:35:42		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:35:42		Dependent features scaled down using RobustScaler
+2021-09-25	15:42:18		Dependent features to be scaled down using RobustScaler
+2021-09-25	15:42:18		Dataset to be splitted into Dependent and Independent Features
+2021-09-25	15:42:18		Dataset splitted into Dependent and Independent Features
+2021-09-25	15:42:18		Dependent features scaled down using RobustScaler
